@@ -16,6 +16,7 @@ The user can:
 * unit & integration tests
 * Container for dependency injection (as a concept)
 * Router, Action and Response generator for logic separation
+* InMemory entity storage with occasional file IO
 
 ## Installation
 ```
