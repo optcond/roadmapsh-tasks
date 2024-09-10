@@ -11,6 +11,12 @@ The user can:
 * List all tasks that are not done
 * List all tasks that are in progress
 
+## Skills battle tested
+* Github readme
+* unit & integration tests
+* Container for dependency injection (as a concept)
+* Router, Action and Response generator for logic separation
+
 ## Installation
 ```
 yarn build
